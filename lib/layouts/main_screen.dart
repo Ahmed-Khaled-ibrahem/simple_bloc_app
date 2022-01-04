@@ -59,7 +59,7 @@ class MainScreen extends StatelessWidget {
                     children: [
 
                       ElevatedButton(
-                      child: Text("finished"),
+                      child: Text("Done now"),
                       onPressed: (){
 
                       },
